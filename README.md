@@ -1,1 +1,1 @@
-# my-first-sitr
+# my-first-site
